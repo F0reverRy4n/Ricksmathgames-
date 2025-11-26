@@ -9,5 +9,5 @@
 
 Here is where I will post updates on when a new game is added or something changed. Besure to check back often for any sneakpeaks or other goodies! If I can I will try to setup a RSS feed for all of those who use that. Coming soon!
 
-May 21:
-Rickrolled Games v3! This was made to fix the problem with the games being blocked and such.
+11/25/2025
+Completely overhauled OG look, detailed update logs when something actually important is changed
